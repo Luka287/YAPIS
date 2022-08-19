@@ -4,9 +4,9 @@ This script install all my apps, fonts and themes.
 
 ## Installation guide
 
-> git clone https://github.com/Luka281/my-os-post-install-script.git 
+> git clone https://github.com/Luka287/YAPIS.git
 
-> cd my-os-post-install-script
+> cd YAPIS
 
-> ./install.sh
+> make
  
